@@ -1,0 +1,17 @@
+{
+  "pawn": {
+    "level": 10,
+    "stats": {
+      "power": 1,
+      "speed": 2
+    }
+  },
+
+  "king": {
+    "level": 23,
+    "stats": {
+      "power": 22,
+      "speed": 1
+    }
+  }
+}
